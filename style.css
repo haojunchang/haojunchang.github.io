@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  color: #000000;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 1.45;
+}
+
+.page {
+  width: 680px;
+  margin: 30px 0 30px 60px;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0 0 0.7em 0;
+}
+
+h2 {
+  font-size: 1.15em;
+  font-weight: bold;
+  margin: 1.4em 0 0.4em 0;
+}
+
+p {
+  margin: 0 0 0.9em 0;
+}
+
+ul {
+  margin: 0.2em 0 1em 1.4em;
+  padding: 0;
+}
+
+li {
+  margin: 0.2em 0;
+}
+
+a {
+  color: #0000cc;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #551a8b;
+}
+
+.updated {
+  margin-top: 1.8em;
+  font-size: 0.95em;
+}
